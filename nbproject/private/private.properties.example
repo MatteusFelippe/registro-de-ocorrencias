@@ -1,0 +1,3 @@
+compile.on.save=true
+file.reference.ojdbc10.jar= local do ojdbc10.jar
+user.properties.file= local do NetBeans\\XX.X\\build.properties
